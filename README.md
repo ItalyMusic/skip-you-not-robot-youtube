@@ -133,4 +133,9 @@ sudo dnf install chromium
 
 1. قم بعمل fork للمشروع
 2. قم بإنشاء فرع جديد للميزة التي ترغب في إضافتها
-3. قم بإرسال pull request
+3. قم بإرسال pull requestrequest
+
+## 🌐 Socials:
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/italy_5)
+
