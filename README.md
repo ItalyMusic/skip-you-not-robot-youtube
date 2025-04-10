@@ -40,7 +40,7 @@ pip install selenium webdriver-manager
 ### الأمر الأساسي
 
 ```bash
-python yt_dlp_bypass_improved.py "رابط_الفيديو"
+python yt_dlp_skip.py "رابط_الفيديو"
 ```
 
 ### الخيارات المتاحة
@@ -55,25 +55,25 @@ python yt_dlp_bypass_improved.py "رابط_الفيديو"
 1. تحميل فيديو بالجودة الافتراضية:
 
 ```bash
-python yt_dlp_bypass_improved.py "https://www.youtube.com/watch?v=jNQXAC9IVRw"
+python yt_dlp_skip.py "https://www.youtube.com/watch?v=jNQXAC9IVRw"
 ```
 
 2. تحميل الصوت فقط بصيغة MP3:
 
 ```bash
-python yt_dlp_bypass_improved.py "https://www.youtube.com/watch?v=jNQXAC9IVRw" -a -f mp3
+python yt_dlp_skip.py "https://www.youtube.com/watch?v=jNQXAC9IVRw" -a -f mp3
 ```
 
 3. تحميل فيديو مع تحديد مسار الإخراج:
 
 ```bash
-python yt_dlp_bypass_improved.py "https://www.youtube.com/watch?v=jNQXAC9IVRw" -o "مجلد_التنزيلات/اسم_الفيديو.mp4"
+python yt_dlp_skip.py "https://www.youtube.com/watch?v=jNQXAC9IVRw" -o "مجلد_التنزيلات/اسم_الفيديو.mp4"
 ```
 
 4. تحميل فيديو مع عرض معلومات تفصيلية:
 
 ```bash
-python yt_dlp_bypass_improved.py "https://www.youtube.com/watch?v=jNQXAC9IVRw" -v
+python yt_dlp_skip.py "https://www.youtube.com/watch?v=jNQXAC9IVRw" -v
 ```
 
 ## كيفية عمل الأداة
@@ -133,9 +133,12 @@ sudo dnf install chromium
 
 1. قم بعمل fork للمشروع
 2. قم بإنشاء فرع جديد للميزة التي ترغب في إضافتها
-3. قم بإرسال pull requestrequest
+3. قم بإرسال pull request
+
+
 
 ## 🌐 Socials:
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/italy_5)
+•﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉•
 
+[![Telegram Channel](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/italy_5)
